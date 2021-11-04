@@ -39,10 +39,10 @@
     display: none;
 }
 
-.product:hover > .heart{
+.product:hover > .heart {
     display: none;     
 }
 
-.product:hover{
+.product:hover {
     cursor: pointer;
 }
