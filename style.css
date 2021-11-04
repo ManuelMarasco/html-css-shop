@@ -1,3 +1,9 @@
+.container{
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+
+}
 .product{
     background-color: aquamarine;
     width: 30%;
