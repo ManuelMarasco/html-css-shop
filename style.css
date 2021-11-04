@@ -23,8 +23,11 @@
     background: green; 
 }
 
-.discount.discount-red {
+.discount-red {
     background-color: red;
+    position: absolute;
+    top: 0;
+    right: 0; 
 }
 
 .heart {
@@ -37,6 +40,9 @@
 }
 
 .product:hover > .heart{
-    display: none
-    
+    display: none;     
+}
+
+.product:hover{
+    cursor: pointer;
 }
