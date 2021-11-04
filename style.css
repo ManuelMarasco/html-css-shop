@@ -40,7 +40,7 @@
 }
 
 .product:hover > .heart {
-    display: none;     
+    display: block;     
 }
 
 .product:hover {
