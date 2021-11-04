@@ -1,11 +1,16 @@
-.container{
+.container {
     width: 90%;
     margin: 0 auto;
     text-align: center;
 }
-.product{
+
+.product {
     background-color: aquamarine;
     width: 30%;
     height: 500px;
     display: inline-block;
+}
+
+.product img {
+    width: 100%;
 }
